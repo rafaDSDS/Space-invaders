@@ -1,0 +1,3 @@
++ = aumenta a dificuldade
+- = diminui a dificuldade
+espaço = dá o tiro
